@@ -4,6 +4,11 @@ Hello, my name is Mikhail I'm mainly using python right now.
 I started with python when I was young and a like to use it for a lot of my projects, but I'm also learning C and C++.
 I'm always trying to come up with a new project or idea that teaches me how to use something new whether that be a new library or a new language.
 
+---
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrad-Git)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **MKrad-Git/MKrad-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
