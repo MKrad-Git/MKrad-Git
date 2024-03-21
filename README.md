@@ -7,7 +7,7 @@ I'm always trying to come up with a new project or idea that teaches me how to u
 ---
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrad-Git&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img src='https://wakatime.com/share/@018e0fbd-1069-42f3-8004-7b539ce1ba44/bef915eb-4c9c-40b6-a27d-af69bc01fe7d.svg' height = '350'/>
+<img src='https://wakatime.com/share/@018e0fbd-1069-42f3-8004-7b539ce1ba44/bda301c2-55d1-47e0-a394-1cd8fd2b115d.svg' height = '350'/>
 
 
 <!--
