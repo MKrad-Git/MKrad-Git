@@ -6,7 +6,7 @@ I'm always trying to come up with a new project or idea that teaches me how to u
 
 ---
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrad-Git&theme=dark&show icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrad-Git&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
