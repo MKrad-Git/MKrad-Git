@@ -1,8 +1,6 @@
 ## Hello! 👋
 ---
-Hello, my name is Mikhail I'm mainly using python right now.
-I started with python when I was young and a like to use it for a lot of my projects, but I'm also learning C and C++.
-I'm always trying to come up with a new project or idea that teaches me how to use something new whether that be a new library or a new language.
+Hello, my name is Mikhail, I have been using Python for 8+ years for personal projects. I am currently enrolled in the University of Massachusetts Lowell Honors Computer Science Program learning C and C++. My biggest achievement is a proffitable trading algorithm. I am always looking to learn more whether it’s additional programming languages or different projects to continue developing my skills and capabilities.
 
 ---
 ## Stats
