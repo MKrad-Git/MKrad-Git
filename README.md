@@ -4,7 +4,7 @@ Hello, my name is Mikhail, I have been using Python for 8+ years for personal pr
 
 ---
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrad-Git&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKrad-Git)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://wakatime.com/share/@018e0fbd-1069-42f3-8004-7b539ce1ba44/728b17ef-b47b-42ab-a927-943e5bdd84fb.svg" height = '450'/>
 
 
